@@ -1,0 +1,13 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "rudr/form",
+	"title": "Subscription form",
+	"category": "text",
+	"description": "This block displays a subscription form",
+	"keywords": [ "alert", "message" ],
+	"version": "1.0",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./assets/style.css",
+	"style": "file:./assets/front.css"
+}

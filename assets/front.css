@@ -1,0 +1,39 @@
+.wp-block-rudr-form{
+	background: #f4faff;
+	padding: 40px 20px;
+	color:#1f2933;
+	box-sizing:border-box;
+}
+.wp-block-rudr-form h3{
+	font-size: 30px;
+	margin-top: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.wp-block-rudr-form form {
+	border: 2px solid #1f2933;
+	display: flex;
+	justify-content: space-between;
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 18px;
+}
+
+.wp-block-rudr-form form input {
+  padding: 8px 16px;
+	width:100%;
+	border-radius: 0;
+	border: 0;
+	line-height: 2;
+}
+
+.wp-block-rudr-form form button {
+	background-color: #1f2933;
+	color: #fff;
+	padding: 8px 20px;
+	font-weight: bold;
+	border: 0;
+
+}
